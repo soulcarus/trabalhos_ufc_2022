@@ -1,0 +1,13 @@
+Relatório de Clientes
+        
+A loja Loiola Express possui 7 clientes que estao listados abaixo
+
+1. <A>
+2. <B>
+3. <Joao Icaro Moreira Loiola>
+4. <Evilazio>
+5. <Joao Icaro Moreira Loiola>
+6. <Francisca Maria>
+7. <Joao>
+
+Russas, 15 do 07 de 2022
