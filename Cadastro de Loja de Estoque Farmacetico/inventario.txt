@@ -1,4 +1,1 @@
-{'nome': 'Dipirona Monohidratada', 'dosagem': '200ml', 'quantidade': 66, 'preco': 49.9}
-{'nome': 'Benzetacil', 'dosagem': '300ml', 'quantidade': 667, 'preco': 23.9}
-{'nome': 'Buscopan', 'dosagem': '30ml', 'quantidade': 23, 'preco': 99.0}
-{'nome': 'Dipirona', 'dosagem': '10mg', 'quantidade': 88, 'preco': 6.79}
+{'nome': 'nucilon', 'dosagem': '200', 'quantidade': 2, 'preco': 19.9}
