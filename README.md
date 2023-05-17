@@ -1,0 +1,3 @@
+# trabalhos_ufc_2022
+Alguns dos trabalhos que realizei como estudante de Ciências da Computação
+Está tudo em Python e não está organizado da melhor maneira possível, mas fiz o máximo na época...
